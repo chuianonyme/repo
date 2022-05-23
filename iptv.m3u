@@ -3,7 +3,7 @@
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.(LCN).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="10"group-title="📺 Canada Français",LCN
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
-#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="📺 United States English" tvg-shift="-4",Tvrl Channel
+#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" tvg-chno="20" group-title="📺 United States English" tvg-shift="-4",Tvrl Channel
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67720?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Télé-Québec"tvg-id="Télé-Québec.HDTV.(CIVM).(TQCH).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png"tvg-chno="30"group-title="📺 Canada Français",Télé-Québec
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
@@ -15,7 +15,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
 #EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDYzMTZf/CanalSavoir_363x363.png"tvg-chno="80"group-title="📺 Canada Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-country="US" tvg-logo="" group-title="📺 United States English",WWE HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67939?checkedby:iptvcat.combined
-#EXTINF:-1 tvg-id="TheFightNetwork(English).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="📺 Canada English",The Fight Network HD
+#EXTINF:-1 tvg-id="The.Fight.Network.HDTV.(Canada).(TFNHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" tvg-chno="90" group-title="📺 Canada English",The Fight Network HD
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="WWE.Network.(WWEHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="" tvg-chno="100" group-title="📺 Canada English",WWE Network
+http://elattar-tv.org:8080/LUCKYG/22376727484869/67939?checkedby:iptvcat.combined
