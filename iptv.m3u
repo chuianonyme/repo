@@ -3,11 +3,7 @@
 https://quebectele.com/Info.mpg
 #EXTINF:-1 tvg-name="ICI RDI (1)"tvg-id="ICI.Réseau.de.l'Information.(ICIRDI).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png"tvg-chno="1"group-title="📺 Canada Français",ICI RDI (1)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
-#EXTINF:-1 tvg-name="ICI RDI (2)"tvg-id="ICI.Réseau.de.l'Information.(ICIRDI).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png"tvg-chno="2"group-title="📺 Canada Français",ICI RDI (2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Est"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="3"group-title="📺 Canada Français",ICI Télé Est
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8?Canada
-#EXTINF:-1 tvg-name="ICI Télé Ouest"tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="5"group-title="📺 Canada Français",ICI Télé Ouest
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8?Canada
 #EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDYzMTZf/CanalSavoir_363x363.png"tvg-chno="7"group-title="📺 Canada Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
@@ -15,32 +11,10 @@ https://hls.savoir.media/live/stream.m3u8
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-name="TVA (1)"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png"tvg-chno="11"group-title="📺 Canada Français",TVA (1)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
-#EXTINF:-1 tvg-name="TVA (2)"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png"tvg-chno="13"group-title="📺 Canada Français",TVA (2)
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1640215800~exp=1640219400~acl=/*~hmac=22c8e0acd9da195a856e6294006b41985438cd85f8de6123d7dacd616670bd02
-#EXTINF:-1 tvg-name="TVA (3)"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png"tvg-chno="15"group-title="📺 Canada Français",TVA (3)
-https://dai.google.com/linear/hls/event/5DUWih-wSeOUg9zszuE-Jw/master.m3u8
 #EXTINF:-1 tvg-name="Noovo (1)"tvg-id="Noovo.Montreal.HD.(NVMT).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png"tvg-chno="17"group-title="📺 Canada Français",Noovo (1)
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
-#EXTINF:-1 tvg-name="Noovo (2)"tvg-id="Noovo.Montreal.HD.(NVMT).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png"tvg-chno="19"group-title="📺 Canada Français",Noovo (2)
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-name="Télé-Québec"tvg-id="Télé-Québec.HDTV.(CIVM).(TQCH).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png"tvg-chno="21"group-title="📺 Canada Français",Télé-Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-name="ICI télévision"tvg-id="ICI.Television.HDTV.(ICIHD).ca"tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png"tvg-chno="27"group-title="📺 Canada Français",ICI télévision
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Acadie"tvg-id="CBAFT.ICI.Radio-Canada.(Moncton).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="29"group-title="📺 Canada Français",ICI Télé Acadie
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Alberta"tvg-id="CBXFT.ICI.Radio-Canada.(Edmonton).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="31"group-title="📺 Canada Français",ICI Télé Alberta
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé CB-Yukon"tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="33"group-title="📺 Canada Français",ICI Télé CB-Yukon
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ICI.Radio-Canada.(Rimouski).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="35"group-title="📺 Canada Français",ICI Télé Est-Québec
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="CKSH.ICI.Radio-Canada.(Sherbrooke).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="37"group-title="📺 Canada Français",ICI Télé Estrie
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Manitoba"tvg-id="CBWFT.ICI.Radio-Canada.(Winnipeg).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="39"group-title="📺 Canada Français",ICI Télé Manitoba
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="CKTM.ICI.Radio-Canada.(Trois-Rivières).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="41"group-title="📺 Canada Français",ICI Télé Mauricie
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
+hhttps://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Montréal (1)"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="42"group-title="📺 Canada Français",ICI Télé Montréal (1)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
 #EXTINF:-1 tvg-id="TheTravelChannel.us(m3u4u)" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" tvg-country="US" group-title="📺 United States English",Tvrl Channel
