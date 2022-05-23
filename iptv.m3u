@@ -9,11 +9,11 @@ http://elattar-tv.org:8080/LUCKYG/22376727484869/67720?checkedby:iptvcat.com
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 #EXTINF:-1 tvg-name="Noovo"tvg-id="Noovo.Montreal.HD.(NVMT).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png"tvg-chno="40"group-title="📺 Canada Français",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
-#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Réseau.de.l'Information.(ICIRDI).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png"tvg-chno="50"group-title="📺 Canada Français",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
+#EXTINF:-1 tvg-name="ICI Télé Montréal"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="50"group-title="📺 Canada Français",ICI Télé Montréal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Est"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="60"group-title="📺 Canada Français",ICI Télé Est
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8?Canada
-#EXTINF:-1 tvg-name="ICI Télé Montréal"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="70"group-title="📺 Canada Français",ICI Télé Montréal
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
+#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Réseau.de.l'Information.(ICIRDI).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png"tvg-chno="70"group-title="📺 Canada Français",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
 #EXTINF:-1 tvg-name="Canal Savoir"tvg-id="Savoir.média.(SVMD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDYzMTZf/CanalSavoir_363x363.png"tvg-chno="80"group-title="📺 Canada Français",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
