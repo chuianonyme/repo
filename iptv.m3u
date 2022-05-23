@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_CA1.xml.gz"
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-name="TVA (1)"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png"tvg-chno="11"group-title="📺 Canada Français",TVA (1)
+#EXTINF:-1 tvg-name="TVA"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png"group-title="📺 Canada Français",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-name="ICI RDI (1)"tvg-id="ICI.Réseau.de.l'Information.(ICIRDI).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png"tvg-chno="1"group-title="📺 Canada Français",ICI RDI (1)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
 #EXTINF:-1 tvg-name="ICI Télé Est"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="3"group-title="📺 Canada Français",ICI Télé Est
