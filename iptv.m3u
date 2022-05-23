@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_CA1.xml.gz"
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n44x66c4jj1en1ge"
 #EXTINF:-1 tvg-name="TVA"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png"tvg-chno="1"group-title="📺 Canada Français",TVA
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.(LCN).ca"tvg-logo="https://i.imgur.com/JHOyrgA.png"tvg-chno="10"group-title="📺 Canada Français",LCN
