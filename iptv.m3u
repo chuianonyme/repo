@@ -13,7 +13,9 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
 #EXTINF:-1 tvg-chno="7" tvg-id="The.Fight.Network.HDTV.(Canada).(TFNHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="📺 Canada English",The Fight Network HD
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="WWE.Network.(WWEHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="📺 Canada English",WWE Network
+#EXTINF:-1 tvg-chno="8" tvg-id="USBB1000001XP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USBB1000001XP_20220427T060323.png" group-title="USA",IMPACT Wrestling
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="9" tvg-id="WWE.Network.(WWEHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="📺 Canada English",WWE Network
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67939
-#EXTINF:-1 tvg-chno="9" tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="📺 United States English",Tvrl Channel
+#EXTINF:-1 tvg-chno="10" tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="📺 United States English",Tvrl Channel
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67720
