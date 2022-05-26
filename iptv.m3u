@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_CA1.xml.gz,https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz"
+#EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_CA1.xml.gz,https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca" tvg-name="TVA" tvg-country="CA-QC" tvg-language="French" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="📺 Canada Français",TVA
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="Le.Canal.Nouvelles.(LCN).ca" tvg-name="LCN" tvg-country="CA-QC" tvg-language="French" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="📺 Canada Français",LCN
@@ -19,3 +19,5 @@ https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67939
 #EXTINF:-1 tvg-chno="10" tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="📺 United States English",Tvrl Channel
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67720
+#EXTINF:-1 tvg-chno="11" tvg-id="USAJ3504702A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ3504702A_20220525T030141.png" group-title="USA",FailArmy
+https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
