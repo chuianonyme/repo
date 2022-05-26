@@ -19,6 +19,8 @@ https://d2patm1aklfd8i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67939
 #EXTINF:-1 tvg-chno="10" tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Tvrl Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="📺 United States English",Tvrl Channel
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67720
+#EXTINF:-1 tvg-chno="669" tvg-id="5adf96e3e738977e2c31cb04" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="📺 United States English", Pluto TV Paranormal
+https://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=fe70216e-dc69-11ec-a815-0242ac110003
 #EXTINF:-1 tvg-chno="11" tvg-id="USBA30003672" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20220330T044521.png" group-title="📺 United States English",IGN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-chno="12" tvg-id="CAAJ2700029OC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/CAAJ2700029OC_20220330T044340.png" group-title="📺 Canada English",FailArmy
