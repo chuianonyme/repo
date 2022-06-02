@@ -11,10 +11,10 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="ICI.Réseau.de.l'Information.(ICIRDI).ca" tvg-name="ICI RDI" tvg-country="CA-QC" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0a/ICI_RDI_logo.svg" group-title="📺 Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
-#EXTINF:-1 tvg-chno="7" tvg-id="The.Fight.Network.HDTV.(Canada).(TFNHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="📺 Canada English",The Fight Network HD
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="CABA3700006IC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/50/CABA3700006IC_20220413T093514.png" group-title="📺 Canada English",IMPACT Wrestling
+#EXTINF:-1 tvg-chno="7" tvg-id="CABA3700006IC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/50/CABA3700006IC_20220413T093514.png" group-title="📺 Canada English",IMPACT Wrestling
 https://d2patm1aklfd8i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-Canada-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="8" tvg-id="The.Fight.Network.HDTV.(Canada).(TFNHD).ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="📺 Canada English",The Fight Network HD
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="5812b0f2237a6ff45d16c3f9" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="📺 United States English", Fight
 https://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=fe70216e-dc69-11ec-a815-0242ac110003
 #EXTINF:-1 tvg-chno="10" tvg-id="5ebc8688f3697d00072f7cf8" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="📺 United States English", Bellator MMA
